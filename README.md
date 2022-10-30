@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I am Harsh</h1>
 <h3 align="center">Online Branding Business Analyst | Grow your Business with Best Strategies | Professional Freelance (Graphic Designer / Social Media Manager) #coding #startups</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/harsh3311/harsh3311/blob/main/undraw_Freelancer_re_irh4.png">
-- 🌱 I’m currently learning **Advanced HTML/CSS, Javascript, Java**
+- 🌱 I’m currently learning  Advanced HTML/CSS, Javascript, Java
 
 - My Graphic Designing Portfolio [https://drive.google.com/drive/folders/1qcQ5F32Lmp-YtyAQ40kry0XovN_vXhdf](https://drive.google.com/drive/folders/1qcQ5F32Lmp-YtyAQ40kry0XovN_vXhdf)
 
