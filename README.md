@@ -1,8 +1,8 @@
-<img src="[https://github.com/harsh3311/harsh3311/main/Untitled.png](https://github.com/harsh3311/harsh3311/blob/main/Untitled.png?raw=true)">
+<img src="https://github.com/harsh3311/harsh3311/main/Untitled.png">
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Web Developer | Designer | Professional Freelancer (Graphic Designer / Social Media Manager/Marketer)</h3>
 
-<img align="right" alt="coding" width="400" src="[https://github.com/harsh3311/harsh3311/blob/main/undraw_Freelancer_re_irh4.png](https://github.com/harsh3311/harsh3311/blob/main/Freelancer.png?raw=true)">
+<img align="right" alt="coding" width="400" src="https://github.com/harsh3311/harsh3311/blob/main/undraw_Freelancer_re_irh4.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh3311&label=Profile%20views&color=0e75b6&style=flat" alt="harsh3311" /> </p>
 
