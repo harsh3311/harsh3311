@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at <a href="https://linktr.ee/kangrow" target="blank">
+- 👨‍💻 All of my projects are available at <a href="https://linktr.ee/kangrow" target="blank">https://linktr.ee/kangrow</a>
 
 - 📫 How to reach me **harshbhardwajofficial1414@gmail.com**
 
-- 📄 Know about my experiences <a href="https://shorturl.at/mwI67" target="blank">
+- 📄 Know about my experiences <a href="https://shorturl.at/mwI67" target="blank">https://shorturl.at/mwI67</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
