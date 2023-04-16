@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1Ea6oLtC_JWgBZ7pIn14plVkN5jzrWxwZ/view?usp=share_link">
+<img src="https://github.com/harsh3311/harsh3311/blob/main/harsh3311.png">
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Coder | Web Developer | Designer | Professional Freelancer</h3>
 <img align="right" alt="coding" width="420" height="300" src="https://github.com/harsh3311/harsh3311/blob/main/harsh3311.gif">
