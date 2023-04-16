@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshbhardwajofficial1414@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/mwI67](shorturl.at/mwI67)
+- 📄 Know about my experiences [https://bit.ly/43E05P2](https://bit.ly/43E05P2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
