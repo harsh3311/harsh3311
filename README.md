@@ -1,7 +1,7 @@
 <img src="https://github.com/harsh3311/harsh3311/blob/main/harsh3311-min.png">
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Coder | Web Developer | Designer | Professional Freelancer</h3>
-<img align="right" alt="coding" width="420" height="300" src="https://github.com/harsh3311/harsh3311/blob/main/harsh3311.gif">
+<img align="right" alt="coding" width="420" height="300" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh3311&label=Profile%20views&color=0e75b6&style=flat" alt="harsh3311" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
