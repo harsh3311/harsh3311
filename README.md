@@ -16,7 +16,7 @@
 <a href="https://instagram.com/kangrow.in" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="kangrow.in" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harsh3311" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="harsh3311" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harsh3311" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="harsh3311" height="30" width="40" /></a>
-</p> <a href="https://auth.geeksforgeeks.org/user/harsh3311/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="harsh3311" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/harsh3311/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="harsh3311" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
