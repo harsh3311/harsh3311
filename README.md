@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://harshbhardwaj.me)
+- 👨‍💻 All of my projects are available at [harshbhardwaj.me](https://harshbhardwaj.me)
 
 - 📫 Reach out @ **harshbhardwajofficial1414@gmail.com**
 
