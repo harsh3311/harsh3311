@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://harshbhardwaj.me)
 
-- 📫 How to reach me **harshbhardwajofficial1414@gmail.com**
+- 📫 Reach out @ **harshbhardwajofficial1414@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/43E05P2]()
 
