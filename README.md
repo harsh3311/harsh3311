@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Bhardwaj</h1>
-<h3 align="center">Pre-Final B.Tech CSE | Front-End Developer | UI/UX Designer | Digital Marketer</h3>
+<h3 align="center">Pre-Final B.Tech CSE | MERN Stack Developer | UI/UX Designer | Digital Marketer</h3>
 <img align="right" alt="coding" width="420" height="300" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh3311&label=Profile%20views&color=0e75b6&style=flat" alt="harsh3311" /> </p>
 
